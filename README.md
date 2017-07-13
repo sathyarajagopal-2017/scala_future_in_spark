@@ -1,4 +1,5 @@
-# scala_future_in_spark
+# scala future's with spark
+
 How to efficiently uses scala concurrency - future's in spark.
 
 The objective of this project is to demo how to use scala concurrency future's with FAIR scheduler (spark.scheduler.mode) turned on in spark properties.
